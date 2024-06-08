@@ -1,9 +1,12 @@
 {
   "name": "vsc-minimalist-theme",
   "displayName": "Minimalist Theme",
-  "description": "",
-  "version": "1.0.0",
+  "description": "A minimalst, flat, dark theme that's based on Code's Dark Modern theme",
+  "icon": "icon.png",
+  "version": "1.1.0",
   "publisher": "muhammadmohsen",
+  "author": "Muhammad Mohsen <muhammadaeh@gmail.com>",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/Muhammad-Mohsen/vsc-minimalist-theme"
@@ -16,18 +19,27 @@
   ],
   "keywords": [
     "theme",
-    "minimalist",
     "darktheme",
     "dark theme",
-    "minimalist theme",
-    "minimalisttheme"
+    "minimalist",
+    "minimalist theme"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Minimalist Theme",
+        "label": "VSC Minimalist",
         "uiTheme": "vs-dark",
-        "path": "./themes/Minimalist Theme-color-theme.json"
+        "path": "./themes/vsc-minimalist-theme.json"
+      },
+      {
+        "label": "VSC Minimalist (Darker)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vsc-minimalist-theme-darker.json"
+      },
+      {
+        "label": "VSC Minimalist (One Dark Pro Colors)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vsc-minimalist-theme-odp.json"
       }
     ]
   }

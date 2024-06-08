@@ -9,3 +9,8 @@ A minimalist dark theme for VSCode. Mostly based on the `Dark Modern` theme, but
 
 ## Screenshot
 ![Theme screenshot](/screenshots/vsc-minimalist-theme.png?raw=true)
+
+## Updating
+- run `vsce login muhammadmohsen` and enter the access token.
+- run `vsce package`
+- run `vsce publish major/minor/patch/`
