@@ -231,6 +231,7 @@
 		"statusBar.background": "#161616",
 		"statusBarItem.hoverBackground": "#ffffff1f",
 		"statusBar.border": "#000000",
+		"statusBar.focusBorder": "#00000000",
 		"statusBar.debuggingBackground": "#cc6633",
 		"statusBar.debuggingForeground": "#ffffff",
 		"statusBar.noFolderBackground": "#68217a",
@@ -447,6 +448,7 @@
 		"breadcrumb.activeSelectionForeground": "#e0e0e0",
 		"editorGutter.commentRangeForeground": "#c5c5c5",
 		"debugExceptionWidget.background": "#000000",
-		"debugExceptionWidget.border": "#474747"
+		"debugExceptionWidget.border": "#474747",
+		"commandCenter.border": "#0000"
 	}
 }

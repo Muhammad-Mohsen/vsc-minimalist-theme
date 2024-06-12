@@ -24,3 +24,6 @@ From [marketplace](https://marketplace.visualstudio.com/items?itemName=MuhammadM
 - run `vsce login muhammadmohsen` and enter the access token.
 - run `vsce package`
 - run `vsce publish major/minor/patch/`
+
+## Ref
+https://code.visualstudio.com/api/references/theme-color
