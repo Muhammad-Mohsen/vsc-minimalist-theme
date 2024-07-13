@@ -25,5 +25,49 @@ From [marketplace](https://marketplace.visualstudio.com/items?itemName=MuhammadM
 - run `vsce package`
 - run `vsce publish major/minor/patch/`
 
+## Palette
+### background `#161616` -> `#111111`
+- activityBar.background
+- sideBar.background
+- statusBar.background
+- titleBar.activeBackground
+- input.background
+- panel.background
+- editorGroupHeader.tabsBackground
+- tab.inactiveBackground
+
+### secondary background `#1e1e1e` -> `#191919` -> `#1A1B20`
+- tab.activeBorder
+
+### foreground `#fff`
+- activityBar.foreground
+- activityBarBadge.foreground
+- statusBar.foreground
+- statusBar.debuggingForeground
+- badge.foreground
+
+### secondary foreground `#ccc`
+
+### border `#333333` -> `#222222`
+- titleBar.border
+- input.border
+- panel.border
+- terminal.border
+- editorGroupHeader.tabsBorder
+- tab.border
+
+### accent `#007acc`
+- focusBorder
+- progressBar.background
+- activityBarBadge.background
+- badge.background
+
+### transparent
+- scrollbar.shadow
+- tab.activeBorderTop
+
+### TODO
+- titleBar.inactiveForeground
+
 ## Ref
 https://code.visualstudio.com/api/references/theme-color
