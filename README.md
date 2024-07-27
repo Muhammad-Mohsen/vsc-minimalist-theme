@@ -11,11 +11,12 @@ A minimalist dark theme for VSCode. Mostly based on the `Dark Modern` theme, but
 ## Screenshots
 ### Minimalist
 ![Theme screenshot](/screenshots/minimalist.png?raw=true)
-
-### Minimalist _Darker_
-![Darker screenshot](/screenshots/minimalist-darker.png?raw=true)
+### Minimalist _Flat_
+![Flat screenshot](/screenshots/flat.png?raw=true)
 ### Minimalist _One Dark Pro Colors_
-![ODP screenshot](/screenshots/minimalist-odp.png?raw=true)
+![ODP screenshot](/screenshots/odp.png?raw=true)
+### Minimalist _Oak_
+![OAK screenshot](/screenshots/oak.png?raw=true)
 
 ## Installation
 From [marketplace](https://marketplace.visualstudio.com/items?itemName=MuhammadMohsen.vsc-minimalist-theme)

@@ -1,5 +1,5 @@
 {
-	"name": "vsc-minimalist-theme-darker",
+	"name": "vsc-minimalist-theme-flat",
 	"include": "./dark_vs.json",
 	"tokenColors": [
 		{
