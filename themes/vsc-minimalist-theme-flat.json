@@ -240,7 +240,7 @@
 		"statusBarItem.remoteForeground": "#ffffff",
 		"titleBar.activeBackground": "#111111",
 		"titleBar.activeForeground": "#cccccc",
-		"titleBar.inactiveBackground": "#3c3c3c99",
+		"titleBar.inactiveBackground": "#111111",
 		"titleBar.inactiveForeground": "#cccccc99",
 		"titleBar.border": "#000000",
 		"menubar.selectionForeground": "#cccccc",
@@ -269,7 +269,7 @@
 		"textLink.foreground": "#3794ff",
 		"editor.background": "#111111",
 		"editor.foreground": "#d4d4d4",
-		"editorLineNumber.foreground": "#858585",
+		"editorLineNumber.foreground": "#ffffff44",
 		"editorCursor.foreground": "#aeafad",
 		"editorCursor.background": "#000000",
 		"editor.selectionBackground": "#264f78",
@@ -293,8 +293,8 @@
 		"editor.lineHighlightBorder": "#282828",
 		"editorLineNumber.activeForeground": "#c6c6c6",
 		"editorLink.activeForeground": "#4e94ce",
-		"editorIndentGuide.background1": "#404040",
-		"editorIndentGuide.activeBackground1": "#707070",
+		"editorIndentGuide.background": "#2e2e2e",
+		"editorIndentGuide.activeBackground": "#5a5a5a",
 		"editorRuler.foreground": "#5a5a5a",
 		"editorBracketMatch.background": "#0064001a",
 		"editorBracketMatch.border": "#888888",
@@ -450,6 +450,7 @@
 		"editorGutter.commentRangeForeground": "#c5c5c5",
 		"debugExceptionWidget.background": "#000000",
 		"debugExceptionWidget.border": "#474747",
-		"commandCenter.border": "#0000"
+		"commandCenter.border": "#0000",
+		"commandCenter.activeBorder": "#0000"
 	}
 }

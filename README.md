@@ -1,12 +1,10 @@
 # VSCode Minimalist Theme
 
-A minimalist dark theme for VSCode. Mostly based on the `Dark Modern` theme, but with a few tweaks:
+A bunch of minimalist dark theme for VSCode. Mostly based on the `Dark Modern` theme, but with a few tweaks:
 - No drop shadows: menus and popups have no drop shadows.
 - Consistent color palette. For example:
 	- The Activity Bar active indicator is white.
 	- Active tab and editor have the same background color.
-
-- 3 variants
 
 ## Screenshots
 ### Minimalist

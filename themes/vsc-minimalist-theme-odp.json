@@ -2100,6 +2100,7 @@
 		"editorGutter.commentRangeForeground": "#c5c5c5",
 		"debugExceptionWidget.background": "#262626",
 		"debugExceptionWidget.border": "#474747",
-		"commandCenter.border": "#262626"
+		"commandCenter.border": "#262626",
+		"commandCenter.activeBorder": "#262626"
 	}
 }
