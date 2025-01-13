@@ -3,7 +3,7 @@
   "displayName": "Minimalist Theme",
   "description": "A minimalst, flat, dark theme that's based on Code's Dark Modern theme",
   "icon": "icon.png",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "publisher": "muhammadmohsen",
   "author": "Muhammad Mohsen <muhammadaeh@gmail.com>",
   "license": "MIT",
@@ -45,6 +45,11 @@
         "label": "VSC Minimalist (Oak)",
         "uiTheme": "vs-dark",
         "path": "./themes/vsc-minimalist-theme-oak.json"
+      },
+      {
+        "label": "VSC Minimalist (Obsidian)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vsc-minimalist-theme-obsidian.json"
       }
     ]
   }
