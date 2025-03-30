@@ -26,6 +26,11 @@ From [marketplace](https://marketplace.visualstudio.com/items?itemName=MuhammadM
 - run `vsce package`
 - run `vsce publish major/minor/patch/`
 
+## TODO
+- look for `entity.name.type.class` to change its color
+- look for `italic` to make the comments italic in obsidian
+- update included colors in obsidian
+
 ## Palette (outdated)
 ### background `#161616` -> `#111111`
 - activityBar.background
