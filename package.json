@@ -50,6 +50,16 @@
         "label": "VSC Minimalist (Obsidian)",
         "uiTheme": "vs-dark",
         "path": "./themes/vsc-minimalist-theme-obsidian.json"
+      },
+      {
+        "label": "VSC Minimalist (Monochrome)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vsc-minimalist-theme-monochrome.json"
+      },
+      {
+        "label": "VSC Minimalist (Cursor)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vsc-minimalist-theme-curosr.json"
       }
     ]
   }
