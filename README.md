@@ -17,6 +17,8 @@ A bunch of minimalist dark theme for VSCode. Mostly based on the `Dark Modern` t
 ![OAK screenshot](/screenshots/oak.png?raw=true)
 ### Minimalist _Obsidian_
 ![OAK screenshot](/screenshots/obsidian.png?raw=true)
+### Minimalist _Cursor_
+![OAK screenshot](/screenshots/cursor.png?raw=true)
 
 ## Installation
 From [marketplace](https://marketplace.visualstudio.com/items?itemName=MuhammadMohsen.vsc-minimalist-theme)
