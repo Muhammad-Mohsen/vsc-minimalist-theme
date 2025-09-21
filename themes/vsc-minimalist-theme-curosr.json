@@ -1994,8 +1994,10 @@
 	"colors": {
 		"activityBar.background": "#141414",
 		"activityBar.foreground": "#CCCCCC99",
+		"activityBar.activeBorder": "#828282",
 		"activityBarBadge.background": "#88C0D0",
 		"activityBarBadge.foreground": "#000000",
+		"activityBar.border": "#FFFFFF0D",
 		"badge.background": "#88C0D0",
 		"badge.foreground": "#141414",
 		"breadcrumb.activeSelectionForeground": "#FFFFFF",
@@ -2017,6 +2019,7 @@
 		"dropdown.border": "#2A2A2A",
 		"dropdown.foreground": "#FFFFFF",
 		"editor.background": "#1a1a1a",
+		"editor.foldBakcground": "#0000",
 		"editor.foreground": "#D8DEE9",
 		"editor.findMatchBackground": "#88C0D066",
 		"editor.findMatchHighlightBackground": "#88C0D044",
@@ -2151,7 +2154,7 @@
 		"pickerGroup.border": "#2A2A2A00",
 		"pickerGroup.foreground": "#FFFFFF",
 		"progressBar.background": "#A3BE8C",
-		"scrollbar.shadow": "#00000000",
+		"scrollbar.shadow": "#0000",
 		"scrollbarSlider.activeBackground": "#60606055",
 		"scrollbarSlider.background": "#40404055",
 		"scrollbarSlider.hoverBackground": "#40404055",
@@ -2175,7 +2178,7 @@
 		"statusBarItem.prominentHoverBackground": "#404040",
 		"tab.activeBackground": "#1a1a1a",
 		"tab.activeBorder": "#1a1a1a",
-		"tab.activeBorderTop": "#FFFFFF00",
+		"tab.activeBorderTop": "#828282",
 		"tab.activeForeground": "#FFFFFF",
 		"tab.border": "#FFFFFF0D",
 		"tab.hoverBackground": "#FFFFFF00",
@@ -2218,7 +2221,7 @@
 		"titleBar.inactiveForeground": "#cccccc60",
 		"tree.indentGuidesStroke": "#CCCCCC55",
 		"walkThrough.embeddedEditorBackground": "#141414",
-		"widget.shadow": "#00000066",
+		"widget.shadow": "#0000",
 		"minimapGutter.addedBackground": "#15ac91",
 		"minimapGutter.modifiedBackground": "#e5b95c",
 		"minimapGutter.deletedBackground": "#f14c4c",
@@ -2226,6 +2229,6 @@
 		"minimap.selectionHighlight": "#363636",
 		"minimap.errorHighlight": "#f14c4c",
 		"minimap.warningHighlight": "#ea7620",
-		"minimap.background": "#181818"
+		"minimap.background": "#1a1a1a"
 	}
 }
