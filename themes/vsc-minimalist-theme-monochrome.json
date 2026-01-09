@@ -2014,6 +2014,7 @@
 		"editorGutter.addedBackground": "#587c0c",
 		"editorGutter.deletedBackground": "#94151b",
 		"editorGutter.foldingControlForeground": "#c5c5c5",
+		"editorGutter.commentRangeForeground": "#c5c5c5",
 
 		"editorCodeLens.foreground": "#999999",
 
@@ -2055,8 +2056,8 @@
 		"scrollbarSlider.background": "#79797966",
 		"scrollbarSlider.hoverBackground": "#646464b3",
 		"scrollbarSlider.activeBackground": "#bfbfbf66",
-		"editorOverviewRuler.background": "#0000",
-		"editorOverviewRuler.border": "#0000",
+		"editorOverviewRuler.background": "#141414",
+		"editorOverviewRuler.border": "#141414",
 
 		"progressBar.background": "#DDDDDD",
 		"widget.shadow": "#0000",
@@ -2128,7 +2129,6 @@
 		"settings.headerForeground": "#DDDDDD",
 		"settings.focusedRowBackground": "#ffffff07",
 		"walkThrough.embeddedEditorBackground": "#00000050",
-		"editorGutter.commentRangeForeground": "#c5c5c5",
 		"debugExceptionWidget.background": "#585858",
 		"debugExceptionWidget.border": "#474747"
 	}
