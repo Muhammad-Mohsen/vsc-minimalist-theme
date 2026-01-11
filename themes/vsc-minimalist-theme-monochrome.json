@@ -1959,6 +1959,7 @@
 		"button.secondaryForeground": "#ffffff",
 		"button.secondaryBackground": "#3a3d41",
 		"button.secondaryHoverBackground": "#45494e",
+		"actionBar.toggledBackground": "#555",
 
 		"input.background": "#333333",
 		"input.border": "#333333",
