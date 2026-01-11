@@ -1999,7 +1999,7 @@
 		"editorRuler.foreground": "#5a5a5a",
 		"editorBracketMatch.background": "#0064001a",
 		"editorBracketMatch.border": "#888888",
-		"editor.foldBackground": "#264f784d",
+		"editor.foldBackground": "#0000",
 		"editorError.foreground": "#f48771",
 		"editorError.background": "#B73A3400",
 		"editorError.border": "#ffffff00",
